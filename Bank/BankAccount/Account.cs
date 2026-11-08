@@ -34,7 +34,7 @@ public class BankAccount{
 
         else
         {
-            Console.WriteLine("Amount Deposited Successfully!");
+            Console.WriteLine("Amount Withdraw Successfully!");
 
         }
         
