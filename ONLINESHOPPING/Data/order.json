@@ -1,0 +1,21 @@
+
+[
+  {
+    "orderId": 101,
+    "orderDate": "2026-11-15T00:00:00",
+    "amount": 2500,
+    "customerName": "Rahul Patil"
+  },
+  {
+    "orderId": 102,
+    "orderDate": "2026-11-16T00:00:00",
+    "amount": 4500,
+    "customerName": "Sneha Joshi"
+  },
+  {
+    "orderId": 103,
+    "orderDate": "2026-11-17T00:00:00",
+    "amount": 3200,
+    "customerName": "Akash Shinde"
+  }
+]
